@@ -1,0 +1,48 @@
+Uri: https://cdn.prod.website-files.com/65f922a988eb2e05e46a6484/65fbd0c7a8d5734bb4f73f71_new-favicon.png
+File Name: C:\Downloaded Web Sites\www.infinitebackrooms.com\65f922a988eb2e05e46a6484\65fbd0c7a8d5734bb4f73f71_new-favicon.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/65f922a988eb2e05e46a6484/65fbd0dfe78abbee7cd1dc7d_webclip2.png
+File Name: C:\Downloaded Web Sites\www.infinitebackrooms.com\65f922a988eb2e05e46a6484\65fbd0dfe78abbee7cd1dc7d_webclip2.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/65f922a988eb2e05e46a6484/65fdf19e4d1c51e927edd5a5_BerkeleyMono-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.infinitebackrooms.com\65f922a988eb2e05e46a6484\65fdf19e4d1c51e927edd5a5_BerkeleyMono-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/65f922a988eb2e05e46a6484/65fdf19fa0b6a47acb75399b_BerkeleyMono-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.infinitebackrooms.com\65f922a988eb2e05e46a6484\65fdf19fa0b6a47acb75399b_BerkeleyMono-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/65f922a988eb2e05e46a6484/66861fa54e5d2a5fe76da2f0_ArrowDropUp.svg
+File Name: C:\Downloaded Web Sites\www.infinitebackrooms.com\65f922a988eb2e05e46a6484\66861fa54e5d2a5fe76da2f0_ArrowDropUp.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65f922a988eb2e05e46a6484/66861fa64e5d2a5fe76da2f6_Baseline Arrow DropDown.svg
+File Name: C:\Downloaded Web Sites\www.infinitebackrooms.com\65f922a988eb2e05e46a6484\66861fa64e5d2a5fe76da2f6_Baseline Arrow DropDown.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65f922a988eb2e05e46a6484/css/dreams-of-an-electric-mind.webflow.cfc037176.css
+File Name: C:\Downloaded Web Sites\www.infinitebackrooms.com\65f922a988eb2e05e46a6484\css\dreams-of-an-electric-mind.webflow.cfc037176.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/65f922a988eb2e05e46a6484/js/webflow.40ca272d9a85b5fff77e6503f9bb013f.js
+File Name: C:\Downloaded Web Sites\www.infinitebackrooms.com\65f922a988eb2e05e46a6484\js\webflow.40ca272d9a85b5fff77e6503f9bb013f.js
+Content Type: text/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=65f922a988eb2e05e46a6484
+File Name: C:\Downloaded Web Sites\www.infinitebackrooms.com\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg
+File Name: C:\Downloaded Web Sites\www.infinitebackrooms.com\static\custom-checkbox-checkmark.589d534424.svg
+Content Type: image/svg+xml
+
+Uri: https://plausible.io/js/script.js
+File Name: C:\Downloaded Web Sites\www.infinitebackrooms.com\js\script.js
+Content Type: application/javascript
+
+Uri: https://www.infinitebackrooms.com/dreams/conversation-1721540624-scenario-terminal-of-truths-txt
+File Name: C:\Downloaded Web Sites\www.infinitebackrooms.com\dreams\conversation-1721540624-scenario-terminal-of-truths-txt.html
+Content Type: text/html
+
